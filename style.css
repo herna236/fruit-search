@@ -20,7 +20,7 @@ body {
   width: inherit;
   display: flex;
   align-items: center;
-  height: 700px;
+  /* height: 700px; */
   margin: 0;
   padding: 0;
 
@@ -43,7 +43,7 @@ input {
   background-color: rgb(233, 188, 75);
   overflow-y: scroll;
   margin-right: 0px;
-  width: 130px;
+  /* width: 130px; */
 }
 
 
